@@ -1,0 +1,12 @@
+{
+  "club": {
+    "name": "TravelPenza",
+    "city": "Пенза",
+    "founded_year": null,
+    "chat_url": "https://vk.me/join/3nhr0RnzJhmWLbCwGJUtM62opc0nna_9BXY="
+  },
+  "trips": [
+    { "track": "Малокалорийный_сплав.gpx", "kind": "water" }
+  ],
+  "announcements": []
+}
