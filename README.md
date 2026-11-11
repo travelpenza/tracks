@@ -7,6 +7,6 @@
 
 ## club.json
 
-- `club`: `name`, `city`, `founded_year`, `chat_url`, `vk_group_url`.
+- `club`: `name`, `city`, `founded_year`, `founded_date` (ГГГГ-ММ-ДД, день рождения клуба), `chat_url`, `vk_group_url`.
 - `trips`: описания походов. `track` — имя GPX-файла трека; дальше по желанию `title`, `date` (ГГГГ-ММ-ДД), `kind` (`hiking`, `water`, `bike`, `ski`, `other`), `difficulty`, `description`, `distance_km`, `cover` и `photos` (пути к фото в этом репозитории), `vk_album_url`.
 - `announcements`: анонсы. `title`, `start_date`, `end_date`, `kind`, `distance_km`, `cover`, `signup_url`.
